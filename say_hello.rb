@@ -4,4 +4,4 @@ def say_hello(name  = "Kode with Klossy Scholar")
 puts "Hello #{name}!"
 end
 
-say_hello(isaaaaaa)
+say_hello (isaaaaaa)
